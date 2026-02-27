@@ -1,15 +1,15 @@
 import { useState, useEffect, useRef } from 'react';
-import Nav from './components/Nav';
-import Hero from './components/Hero';
-import Skills from './components/Skills';
-import Projects from './components/Projects';
-import ClientReviews from './components/ClientReviews';
+import Nav from './components/Nav.jsx';
+import Hero from './components/Hero.jsx';
+import Skills from './components/Skills.jsx';
+import Projects from './components/Projects.jsx';
+import ClientReviews from './components/ClientReviews.jsx';
 import BlogPosts from './components/BlogPosts';
-import Education from './components/Education';
-import Services from './components/Services';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
-import ContactModal from './components/ContactModal';
+import Education from './components/Education.jsx';
+import Services from './components/Services.jsx';
+import Contact from './components/Contact.jsx';
+import Footer from './components/Footer.jsx';
+import ContactModal from './components/ContactModal.jsx';
 
 function App() {
   const [scrolled, setScrolled] = useState(false);
