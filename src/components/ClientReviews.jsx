@@ -2,7 +2,7 @@ const REVIEWS = [
   {
     name: 'Sarah Mitchell',
     role: 'Product Manager, TechFlow',
-    quote: 'Laiba delivered our dashboard on time with a clean, maintainable codebase. Communication was smooth and the result exceeded our expectations.',
+    quote: 'Anas delivered our dashboard on time with a clean, maintainable codebase. Communication was smooth and the result exceeded our expectations.',
     rating: 5,
   },
   {
